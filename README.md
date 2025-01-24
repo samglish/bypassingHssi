@@ -6,3 +6,4 @@ Ethical hacking - Bypassing HSSI
 2. De-authenticate a client and force it to re-associate with the AP and thus capture that association.
 
 ## the tools we are going to use.
+1. `aireplay-ng`
